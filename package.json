@@ -1,0 +1,16 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "just learning how to make a local host ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[B"
+  },
+  "author": "Rishabh Mishra",
+  "license": "ISC"
+}
